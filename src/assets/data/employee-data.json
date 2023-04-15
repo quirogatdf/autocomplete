@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "lastName": "Smith",
+    "firstName": "John",
+    "categoryId": 1
+  },
+  {
+    "id": 2,
+    "lastName": "Paul",
+    "firstName": "Mc Queen",
+    "categoryId": 3
+  },
+  {
+    "id": 3,
+    "lastName": "Messi Cuccittini",
+    "firstName": "Lionel Andrés",
+    "categoryId": 2
+  },
+  {
+    "id": 4,
+    "lastName": "Vang",
+    "firstName": "Barney",
+    "categoryId": 2
+  }
+]
